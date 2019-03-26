@@ -1,0 +1,4 @@
+output: filecnt.cpp filedisp.cpp
+	g++ -o filecnt filecnt.cpp
+	g++ -o filedisp filedisp.cpp
+	g++ -o version version.cpp
